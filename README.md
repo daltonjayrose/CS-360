@@ -1,5 +1,5 @@
 # CS-360
-<div align="center"><img src="[https://i.imgur.com/2X53uwL.gif](https://i.imgur.com/8ExaRVE.gif)" alt="Example Image" width="270" height="600"></br>
+<div align="center"><img src="https://i.imgur.com/8ExaRVE.gif" alt="Example Image" width="270" height="600"></br>
 Weight tracking application for Android</div>  
 
 </br>  
